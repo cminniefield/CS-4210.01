@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Caden Minniefield
-# FILENAME: decision_tree_2.py
+# FILENAME: knn.py
 # SPECIFICATION: This program computes the LOO-CV error rate for a 1NN classifier on the spam/ham classification
 # FOR: CS 4210- Assignment #2
 # TIME SPENT: 4 hours
